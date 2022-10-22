@@ -1,0 +1,16 @@
+{
+    "defaultEdgeStyle": {
+      "endArrow": "none",
+      "strokeWidth": "2",
+      "jettySize": "0",
+      "edgeStyle": "orthogonalEdgeStyle",
+      "rounded": "0",
+      "orthogonalLoop": "1",
+      "html": "1",
+      "exitX": "0.5",
+      "exitY": "0",
+      "exitDx": "0",
+      "exitDy": "0",
+      "exitPerimeter": "0"
+    }
+  }
